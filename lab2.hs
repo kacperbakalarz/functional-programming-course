@@ -1,5 +1,4 @@
 {-# OPTIONS_GHC -Wall #-}
-import Distribution.Simple.Program.HcPkg (list)
 fiveToPower :: Integer -> Integer
 fiveToPower x = (5^x)
 
